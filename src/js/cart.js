@@ -1,3 +1,3 @@
-require(['./common.js'], function(){
+require(['./common.js'], function(common){
   common.initCart();
 })
