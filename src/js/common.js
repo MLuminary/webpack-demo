@@ -1,9 +1,9 @@
-define('common',function(){
+define('common',()=>{
   return {
-    initIndex: function(){
+    initIndex(){
       console.log('common init index');
     },
-    initCart: function(){
+    initCart(){
       console.log('common init cart')
     }
   }

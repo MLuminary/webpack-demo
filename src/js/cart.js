@@ -1,3 +1,4 @@
-require(['./common.js'], function(common){
+import './../css/style.css'
+require(['./common.js'], (common)=>{
   common.initCart();
 })

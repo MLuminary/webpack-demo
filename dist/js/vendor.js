@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5,0],[function(n,o,i){"use strict";var t;void 0===(t=function(){return{initIndex:function(){console.log("common init index")},initCart:function(){console.log("common init cart")}}}.call(o,i,o,n))||(n.exports=t)},,function(n,o,i){i(1),n.exports=i(0)}],[[2,2,1]]]);
